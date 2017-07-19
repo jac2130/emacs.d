@@ -118,6 +118,7 @@
 (require 'init-folding)
 (require 'init-dash)
 (require 'init-ledger)
+(require-package 'ensime)
 ;; Extra packages which don't require any configuration
 
 (require-package 'gnuplot)
